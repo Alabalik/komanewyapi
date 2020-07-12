@@ -871,7 +871,7 @@ app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
   console.log("Halil Botu Hostladı.")
-}, 8850);
+}, 885000);
 
 
 // ======================== küfür engelleme =======================
