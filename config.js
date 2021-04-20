@@ -3,7 +3,7 @@ const config = {
   "sahip": ["726403140806770750"],
   "admins": [""],//Yetkili eklemek isterseniz, o kişinin ID'si.
   "support": [""],//Destek ekibi eklemek isterseniz, o kişinin ID'si.
-  "token": "",//Botun, tokeni.
+  "token": "ODMzODg0MTMyNzU2OTQ2OTk0.YH41Hg.6X84Ni5-smCeFva5MzXqPT_YOdw",//Botun, tokeni.
   "dashboard" : {
     "oauthSecret": "",//Client secret.
     "callbackURL": `https://v12muzik.glitch.me/callback`,//oAuth2 kısmında bulunan kutucuğa, bu bağlantıyı ekleyiniz.
